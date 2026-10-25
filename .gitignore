@@ -1,0 +1,8 @@
+meta_token*
+meta_automation_state.json
+meta_write_block.json
+meta_token_active.json
+abo_first_purchase.json
+*.log
+__pycache__/
+.original/
